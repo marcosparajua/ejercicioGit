@@ -8,7 +8,7 @@ document.addEventListener("DOMContentLoaded", function () {
     "5.jpg",
     "6.jpg",
     "7.jpg",
-    "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR5bhCMqsacIBcdolD0e7hgxJBtX5_DmgR0xg&usqp=CAU",
+    "https://i.etsystatic.com/9027267/r/il/7e9b07/3763045431/il_fullxfull.3763045431_t3gy.jpg",
   ];
   let index = 0;
 
